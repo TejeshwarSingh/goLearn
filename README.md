@@ -9,3 +9,5 @@ docker-compose down
 docker-compose build --no-cache
 docker-compose up
 
+
+go build -o main.exe
